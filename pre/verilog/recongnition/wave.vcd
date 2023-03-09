@@ -1,0 +1,91 @@
+$date
+	Tue Sep 27 23:43:17 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module tb_recognition $end
+$var wire 1 ! out $end
+$var reg 1 " clk $end
+$var reg 1 # in $end
+$var reg 1 $ reset $end
+$scope module u_recognition $end
+$var wire 1 " clk $end
+$var wire 1 # in $end
+$var wire 1 $ reset $end
+$var reg 1 ! out $end
+$var reg 2 % status [1:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 %
+1$
+0#
+0"
+0!
+$end
+#1000
+1"
+#2000
+0"
+0$
+#3000
+1"
+#4000
+0"
+1#
+#5000
+b1 %
+1"
+#6000
+0"
+0#
+#7000
+b10 %
+1"
+#8000
+0"
+1#
+#9000
+b11 %
+1!
+1"
+#10000
+0"
+0#
+#11000
+b10 %
+0!
+1"
+#12000
+0"
+1#
+#13000
+b11 %
+1!
+1"
+#14000
+0"
+#15000
+b1 %
+0!
+1"
+#16000
+0"
+#17000
+1"
+#18000
+0"
+#19000
+1"
+#20000
+0"
+#21000
+1"
+#22000
+0"
