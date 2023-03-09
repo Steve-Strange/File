@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/MGLDT/Desktop/3D/Project/out/build/x64-Debug/_deps/ucmake-subbuild/CMakeFiles/ucmake-populate"
+		},
+		{
+			"file" : "C:/Users/MGLDT/Desktop/3D/Project/out/build/x64-Debug/_deps/ucmake-subbuild/CMakeFiles/ucmake-populate.rule"
+		},
+		{
+			"file" : "C:/Users/MGLDT/Desktop/3D/Project/out/build/x64-Debug/_deps/ucmake-subbuild/CMakeFiles/ucmake-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/MGLDT/Desktop/3D/Project/out/build/x64-Debug/_deps/ucmake-subbuild/ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/MGLDT/Desktop/3D/Project/out/build/x64-Debug/_deps/ucmake-subbuild/ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/MGLDT/Desktop/3D/Project/out/build/x64-Debug/_deps/ucmake-subbuild/ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/MGLDT/Desktop/3D/Project/out/build/x64-Debug/_deps/ucmake-subbuild/ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/MGLDT/Desktop/3D/Project/out/build/x64-Debug/_deps/ucmake-subbuild/ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/MGLDT/Desktop/3D/Project/out/build/x64-Debug/_deps/ucmake-subbuild/ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/MGLDT/Desktop/3D/Project/out/build/x64-Debug/_deps/ucmake-subbuild/ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/MGLDT/Desktop/3D/Project/out/build/x64-Debug/_deps/ucmake-subbuild/ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ucmake-populate"
+		],
+		"name" : "ucmake-populate"
+	}
+}

@@ -1,0 +1,21 @@
+# ninja log v5
+0	93	6860310839899506	ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-mkdir	4b124730362d2c55
+0	93	6860310839899506	C:/Users/MGLDT/Desktop/3D/Project/out/build/x64-Debug/_deps/ucmake-subbuild/ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-mkdir	4b124730362d2c55
+95	180	6860310840761327	ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-download	45048498b214d4e8
+95	180	6860310840761327	C:/Users/MGLDT/Desktop/3D/Project/out/build/x64-Debug/_deps/ucmake-subbuild/ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-download	45048498b214d4e8
+181	282	6860310841799726	ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-update	42c4663b05afcb6d
+181	282	6860310841799726	C:/Users/MGLDT/Desktop/3D/Project/out/build/x64-Debug/_deps/ucmake-subbuild/ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-update	42c4663b05afcb6d
+283	372	6860310842689831	ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-patch	9e9629034f0ee5f8
+283	372	6860310842689831	C:/Users/MGLDT/Desktop/3D/Project/out/build/x64-Debug/_deps/ucmake-subbuild/ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-patch	9e9629034f0ee5f8
+373	460	6860310843562526	ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-configure	2c784a276b36fda8
+373	460	6860310843562526	C:/Users/MGLDT/Desktop/3D/Project/out/build/x64-Debug/_deps/ucmake-subbuild/ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-configure	2c784a276b36fda8
+461	548	6860310844448733	ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-build	851c88c136c8c14e
+461	548	6860310844448733	C:/Users/MGLDT/Desktop/3D/Project/out/build/x64-Debug/_deps/ucmake-subbuild/ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-build	851c88c136c8c14e
+548	638	6860310845355307	ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-install	d8ce40161cace34b
+548	638	6860310845355307	C:/Users/MGLDT/Desktop/3D/Project/out/build/x64-Debug/_deps/ucmake-subbuild/ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-install	d8ce40161cace34b
+638	724	6860310846208167	ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-test	6817b4e8d3e9288e
+638	724	6860310846208167	C:/Users/MGLDT/Desktop/3D/Project/out/build/x64-Debug/_deps/ucmake-subbuild/ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-test	6817b4e8d3e9288e
+724	845	6860310847440280	CMakeFiles/ucmake-populate-complete	b777618a2d0ce9a0
+724	845	6860310847440280	ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-done	b777618a2d0ce9a0
+724	845	6860310847440280	C:/Users/MGLDT/Desktop/3D/Project/out/build/x64-Debug/_deps/ucmake-subbuild/CMakeFiles/ucmake-populate-complete	b777618a2d0ce9a0
+724	845	6860310847440280	C:/Users/MGLDT/Desktop/3D/Project/out/build/x64-Debug/_deps/ucmake-subbuild/ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-done	b777618a2d0ce9a0

@@ -1,0 +1,14 @@
+# Target labels
+ ucmake-populate
+# Source files and their labels
+C:/Users/MGLDT/Desktop/3D/Project/out/build/x64-Debug/_deps/ucmake-subbuild/CMakeFiles/ucmake-populate
+C:/Users/MGLDT/Desktop/3D/Project/out/build/x64-Debug/_deps/ucmake-subbuild/CMakeFiles/ucmake-populate.rule
+C:/Users/MGLDT/Desktop/3D/Project/out/build/x64-Debug/_deps/ucmake-subbuild/CMakeFiles/ucmake-populate-complete.rule
+C:/Users/MGLDT/Desktop/3D/Project/out/build/x64-Debug/_deps/ucmake-subbuild/ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-build.rule
+C:/Users/MGLDT/Desktop/3D/Project/out/build/x64-Debug/_deps/ucmake-subbuild/ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-configure.rule
+C:/Users/MGLDT/Desktop/3D/Project/out/build/x64-Debug/_deps/ucmake-subbuild/ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-download.rule
+C:/Users/MGLDT/Desktop/3D/Project/out/build/x64-Debug/_deps/ucmake-subbuild/ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-install.rule
+C:/Users/MGLDT/Desktop/3D/Project/out/build/x64-Debug/_deps/ucmake-subbuild/ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-mkdir.rule
+C:/Users/MGLDT/Desktop/3D/Project/out/build/x64-Debug/_deps/ucmake-subbuild/ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-patch.rule
+C:/Users/MGLDT/Desktop/3D/Project/out/build/x64-Debug/_deps/ucmake-subbuild/ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-test.rule
+C:/Users/MGLDT/Desktop/3D/Project/out/build/x64-Debug/_deps/ucmake-subbuild/ucmake-populate-prefix/src/ucmake-populate-stamp/ucmake-populate-update.rule
