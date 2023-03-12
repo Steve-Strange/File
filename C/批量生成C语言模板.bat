@@ -1,0 +1,10 @@
+copy template.c a.c
+copy template.c b.c
+copy template.c c.c
+copy template.c d.c
+copy template.c e.c
+copy template.c f.c
+copy template.c g.c
+copy template.c h.c
+copy template.c i.c
+copy template.c j.c

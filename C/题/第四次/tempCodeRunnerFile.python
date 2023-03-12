@@ -1,0 +1,16 @@
+n=int(input())
+listA=[]
+for i in range(n):
+    listA.append(float(input()))
+b=int(0)
+a=max(listA)
+for i in listA:
+  if(i==a):
+    b+=1
+print("%.1f %d"%(a,b))
+d=int(0)
+c=min(listA)
+for i in listA:
+  if(i==c):
+    d+=1
+print("%.1f %d"%(c,d))

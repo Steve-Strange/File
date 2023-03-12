@@ -1,0 +1,4 @@
+.idea/*
+*.class
+*.iml
+META-INF/MANIFEST.MF

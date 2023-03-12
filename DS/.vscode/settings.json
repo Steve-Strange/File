@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "*.rmd": "markdown",
+        "XX.C": "cpp",
+        "typeinfo": "c",
+        "stdlib.h": "c",
+        "ctype.h": "c",
+        "untitled-1": "cpp",
+        "*.tcc": "c",
+        "string": "c",
+        "unordered_map": "c",
+        "string_view": "c",
+        "array": "c",
+        "tuple": "c"
+    }
+}
